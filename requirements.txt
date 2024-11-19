@@ -1,0 +1,6 @@
+openai
+tiktoken
+transformers
+torch
+requests
+python-dotenv
